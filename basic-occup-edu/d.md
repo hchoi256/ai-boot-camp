@@ -1,47 +1,85 @@
-# 워크숍: 키워드 분석 및 기획
+# 워크숍: Design-driven Thinking
 
-## "밀키트" 신규 기획서 작성
+## 데이터로 이해하는 사회문제
 
-### 1. 연관어 키워드
+### "원숭이두창" 데이터 분석
 
-*[빅카인즈]*
-![연관어분석_20220630](https://user-images.githubusercontent.com/39285147/176653937-2dc9de90-6994-47ce-989f-ccbdb6698519.png)
+![image](https://user-images.githubusercontent.com/39285147/176974065-79153ff4-4173-443d-a1fb-2845f371dcc8.png)
 
-### 2. 연관어 키워드 *상관계수* 결과 (밀키트<->연관어)
-  - 상관계수가 높을수록 "밀키트"와의 연관성 ↑
+![image](https://user-images.githubusercontent.com/39285147/176974071-6f5b0273-732e-442a-aa36-0a3ef911aff2.png)
 
-*[네이버데이터랩]*
-![image](https://user-images.githubusercontent.com/39285147/176654057-0c49f5b5-e4fa-478a-b28b-a37fa289b306.png)
-  - 기간: 06.2021 ~ 06.2022 (주간)
-  - 범위: 전체
-  - 성별: 전체
-  - 연령: 전체
+![image](https://user-images.githubusercontent.com/39285147/176974082-5879e252-42cf-4ae3-b981-05876ea8ffcb.png)
 
-*[엑셀]*
+![image](https://user-images.githubusercontent.com/39285147/176974092-3f53a48b-9584-4e06-a74c-3df00b6b1607.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974101-383ba38c-2873-4e1e-9d56-8448c624ddcf.png)
 
 
-![image](https://user-images.githubusercontent.com/39285147/176657614-5b12d235-e685-40f0-af30-6e93b7c6860c.png)
-![image](https://user-images.githubusercontent.com/39285147/176655630-61f270af-9341-4800-9478-1b3e6a7c3f7c.png)
+.
 
-*[상관계수결과]*
+.
 
-![image](https://user-images.githubusercontent.com/39285147/176655074-ad63473e-cc0b-4a3e-b1f4-9a405f517b8d.png)
+.
 
-- 상관분석 결과 상관성이 있는 키워드
-  - 칼로리, 밀푀유나베, 레시피, 코로나19, 롯데푸드, 시식화, 포장, 집, 캠핑, 홈플러스, 일회용품, 간편식 등
-- 3~5개 키워드 고르기
-  - **밀푀유나베, 레시피, 코로나19, 간편식, 조리세트**
+.
 
-![image](https://user-images.githubusercontent.com/39285147/176657115-d407946f-6847-4fb6-a5ea-94b946c8a80f.png)
+.
 
-### 3. 연관어 키워드 *회귀계수* 결과 (밀키트<->연관어)
-  - 회귀계수가 높을수록 "상관계수" 신빙성 ↑
-  
-![image](https://user-images.githubusercontent.com/39285147/176657157-18677b91-bad3-4fd0-957b-fe4ca1c35fe1.png)
+.
 
-### 4. 최종: 결과를 종합하여 밀키트 신제품 컨셉 제안
+.
 
-![image](https://user-images.githubusercontent.com/39285147/176658188-5e2b4660-f46b-48f5-b727-c50bb49438b5.png)
+### 국내 "은퇴자 실태" 분석
+
+![image](https://user-images.githubusercontent.com/39285147/176974176-c9ae2517-1d88-4b0b-af46-b337a6d1179d.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974206-3e90b640-1c63-4866-9956-4b5e5ff37045.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974341-2b42b2d9-90ff-4569-b05f-950549c69fd8.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974349-101fafc7-65cd-4191-b6cc-684d9f55c0f6.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974355-ccc91bf2-6d10-4243-928d-a681231ddee4.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974358-a92be214-639a-4eb1-884d-9a5eed4dd03d.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974362-dbcf7de5-3317-452f-9e36-a3b6cfee176e.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974367-5ef0bda3-f344-4d50-9d0d-b21d8c1239f1.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974369-525c64e8-7d30-4fe2-85ca-934af6217450.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974377-fb529c35-476b-48bf-8b29-67af173ed6da.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974385-79246b06-a122-4321-a8fb-375d29e75c19.png)
+
+![image](https://user-images.githubusercontent.com/39285147/176974397-32a9fe41-dfc5-471b-b00f-a3760ee84de3.png)
 
 
 
+
+- 참고사이트
+  - 국가통계포털(KOSIS)(통계청) - https://kosis.kr/index/index.do
+  - 금융빅데이터(BC카드) - https://www.bigdata-finance.kr/
+  - E-나라지표(통계청) - http://www.index.go.kr/potal/main/PotalMain.do
+  - 금융빅데이터 개방시스템(신용정보원) - https://credb.kcredit.or.kr/
+  - 서울 열린 데이터 광장 - https://data.seoul.go.kr/
+  - 보건의료 빅데이터 개방시스템(건강보험심사평가원) - https://opendata.hira.or.kr/home.do
+  - 데이터 스토어 - https://www.datastore.or.kr/
+  - KT빅데이터플랫폼 - https://bdp.kt.co.kr/
+  - AI 허브 - https://aihub.or.kr/
+  - 문화 빅데이터 플랫폼 - https://www.culture.go.kr/bigdata/user/main.do
+  - 교통데이터거래소(한국교통연구원) - https://www.diamond-e.kr/
+  - 데이터유통포털 - https://datastore.wehago.com/#/datastore/landing
+  - 국립암센터 - https://cancerportal.kr/
+  - 경기지역경제포털 - https://bigdata-region.kr/#/
+  - 한국은행 경제통계시스템 - https://ecos.bok.or.kr/#/
+  - 관광지식 시스템 - https://know.tour.go.kr/
+  - 무역협회 - https://www.kita.net/
+  - 광고산업 통계정보 시스템 - https://www.kobaco.co.kr/site/adstat/home
+  - 코리안 클릭 -http://www.koreanclick.com/
+  - 랭키닷컴 -https://www.rankey.com/
+  - 문화빅데이터플랫폼 - https://www.bigdata-culture.kr/bigdata/user/data_market/list.do
+  - 한국관광데이터랩 - https://datalab.visitkorea.or.kr/datalab/portal/main/getMainForm.do
+  - KT경제연구소 - https://www.kdi.re.kr/
+  - 엠브레인 파워패널 - https://www.panel.co.kr/user/main
