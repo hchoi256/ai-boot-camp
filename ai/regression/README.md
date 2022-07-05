@@ -9,10 +9,12 @@
 -	Importing the dataset
 -	Splitting the dataset into the Training set and Test set
 -	Training the Simple Linear Regression model on the Training set
-o	from sklearn.linear_model import LinearRegression
 -	Predicting the Test set results
 -	Visualising the Training set results
 -	Visualising the Test set results
+
+### Libraries
+- *from sklearn.linear_model import LinearRegression*
 
 ## Multiple Linear Regression
 
@@ -21,7 +23,6 @@ o	from sklearn.linear_model import LinearRegression
 -	Importing the dataset
 -	Splitting the dataset into the Training set and Test set
 -	Training the Simple Linear Regression model on the Training set
-o	from sklearn.linear_model import LinearRegression
 -	Predicting the Test set results
 -	Visualising the Training set results
 -	Visualising the Test set results
