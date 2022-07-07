@@ -32,3 +32,7 @@
 ![image](https://user-images.githubusercontent.com/39285147/177683114-a22d28b0-6b99-4c34-b4e8-f56f25fabaf3.png)
 ![image](https://user-images.githubusercontent.com/39285147/177683119-265fc600-7486-43b6-bdaa-50109a305ae8.png)
 
+
+## SVR
+![image](https://user-images.githubusercontent.com/39285147/177793303-fe6d94be-5b51-4254-9cab-6caf469b61c6.png)
+
