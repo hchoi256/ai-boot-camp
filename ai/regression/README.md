@@ -64,3 +64,6 @@
 - 대용량 데이터 처리에 효과적
 - 모델의 노이즈를 심화시키는 Overfitting(오버피팅) 문제를 회피하여, 모델 정확도를 향상시킴
 - Classification 모델에서 상대적으로 중요한 변수를 선정 및 Ranking 가능
+
+## Note
+![image](https://user-images.githubusercontent.com/39285147/177999210-181b42ea-927c-4968-a36f-145902eaeefa.png)
