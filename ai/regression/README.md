@@ -41,6 +41,7 @@
 
 
 ## SVR
+![image](https://user-images.githubusercontent.com/39285147/177911409-0d381f92-e874-45d5-bbaf-f3e343b56f68.png)
 ![image](https://user-images.githubusercontent.com/39285147/177793303-fe6d94be-5b51-4254-9cab-6caf469b61c6.png)
 
 
