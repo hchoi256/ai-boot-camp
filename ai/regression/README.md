@@ -41,8 +41,11 @@
 
 
 ## SVR
-![image](https://user-images.githubusercontent.com/39285147/177911409-0d381f92-e874-45d5-bbaf-f3e343b56f68.png)
-![image](https://user-images.githubusercontent.com/39285147/177793303-fe6d94be-5b51-4254-9cab-6caf469b61c6.png)
+![image](https://user-images.githubusercontent.com/39285147/177983301-baaa9147-5d0f-4c06-ac85-dd31f8715ec8.png)
+- Feature scaling O
+- 회귀선: [하한선, 상한선]
+  - 튜브 내에 실제 값이 있다면, 예측값과 차이가 있더라도 용인해주기 위해 penalty를 0
+  - 튜브 밖에 실제 값이 있다면, penalty를 부여하게 됩니다.
 
 
 ## Decision Making Tree Regression
@@ -53,4 +56,11 @@
 
 ## Random Forest Regression
 - No need for feature scaling
-- 
+- Multiple combinations of DMTs
+
+### 랜덤 포레스트의 장점
+- Classification(분류) 및 Regression(회귀) 문제에 모두 사용 가능
+- Missing value(결측치)를 다루기 쉬움
+- 대용량 데이터 처리에 효과적
+- 모델의 노이즈를 심화시키는 Overfitting(오버피팅) 문제를 회피하여, 모델 정확도를 향상시킴
+- Classification 모델에서 상대적으로 중요한 변수를 선정 및 Ranking 가능
