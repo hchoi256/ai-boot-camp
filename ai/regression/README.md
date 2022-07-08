@@ -10,13 +10,6 @@
 -	Visualising the Training set results
 -	Visualising the Test set results
 
-
-### Encoder
-- **OneHotEncoder**
-  - Categorical data w/o order
-- **LabelEncoder**
-  - Categorical data w/ order
-
 ## Simple Linear Regression
 
 ![image](https://user-images.githubusercontent.com/39285147/177331908-96267c1b-82d3-4b76-929d-fa9ca6c6e7d1.png)
@@ -66,4 +59,11 @@
 - Classification 모델에서 상대적으로 중요한 변수를 선정 및 Ranking 가능
 
 ## Note
+
+### Encoder
+- **OneHotEncoder**
+  - Categorical data w/o order
+- **LabelEncoder**
+  - Categorical data w/ order
+  - 
 ![image](https://user-images.githubusercontent.com/39285147/177999210-181b42ea-927c-4968-a36f-145902eaeefa.png)
