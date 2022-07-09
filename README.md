@@ -49,9 +49,3 @@ I was luckily selected as a participant in this program, and I'd like to record 
     - Review analysis with NLP
     - Span filter with NLP
     - Recommendation system with NLP
-
-## Note
-
-All the codes are written by Eric.
-
-*Best wishes on your learning :)*
