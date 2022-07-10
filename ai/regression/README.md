@@ -10,14 +10,14 @@
 -	Visualising the Training set results
 -	Visualising the Test set results
 
-## Simple Linear Regression
+## [Simple Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/simple_linear_regression.ipynb)
 
 ![image](https://user-images.githubusercontent.com/39285147/177331908-96267c1b-82d3-4b76-929d-fa9ca6c6e7d1.png)
 
 ### Libraries
 - *from sklearn.linear_model import LinearRegression*
 
-## Multiple Linear Regression
+## [Multiple Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/multiple_linear_regression.ipynb)
 ![image](https://user-images.githubusercontent.com/39285147/177505039-04e82862-8af1-4dab-b4b7-0e20887b1d37.png)
 
 ### 5 Methods of Building Models
@@ -28,12 +28,12 @@
 - Score Comparison
 
 
-## Polynomial Linear Regression
+## [Polynomial Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/polynomial_regression.ipynb)
 ![image](https://user-images.githubusercontent.com/39285147/177683114-a22d28b0-6b99-4c34-b4e8-f56f25fabaf3.png)
 ![image](https://user-images.githubusercontent.com/39285147/177683119-265fc600-7486-43b6-bdaa-50109a305ae8.png)
 
 
-## SVR
+## [SVR](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/support_vector_regression.ipynb)
 ![image](https://user-images.githubusercontent.com/39285147/177983301-baaa9147-5d0f-4c06-ac85-dd31f8715ec8.png)
 - Feature scaling O
 - 회귀선: [하한선, 상한선]
@@ -41,13 +41,13 @@
   - 튜브 밖에 실제 값이 있다면, penalty를 부여하게 됩니다.
 
 
-## Decision Making Tree Regression
+## [Decision Making Tree Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/decision_tree_regression.ipynb)
 - No need for feature scaling
 ![image](https://user-images.githubusercontent.com/39285147/177811894-12312896-240c-45a1-aa4a-9f9a0c101285.png)
 ![image](https://user-images.githubusercontent.com/39285147/177811933-8e0ecf5a-6830-464a-ac64-dffcf16ab5bb.png)
 
 
-## Random Forest Regression
+## [Random Forest Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/random_forest_regression.ipynb)
 - No need for feature scaling
 - Multiple combinations of DMTs
 
