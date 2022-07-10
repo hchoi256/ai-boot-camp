@@ -1,15 +1,6 @@
 
 # Regression
 
-### Implemenetation
--	Importing the librarires
--	Importing the dataset
--	Splitting the dataset into the Training set and Test set
--	Training the Simple Linear Regression model on the Training set
--	Predicting the Test set results
--	Visualising the Training set results
--	Visualising the Test set results
-
 ## [Simple Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/simple_linear_regression.ipynb)
 
 ![image](https://user-images.githubusercontent.com/39285147/177331908-96267c1b-82d3-4b76-929d-fa9ca6c6e7d1.png)
@@ -59,6 +50,17 @@
 - Classification 모델에서 상대적으로 중요한 변수를 선정 및 Ranking 가능
 
 ## Note
+
+### [Regression Models: Pros and Cons](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/Regression_Pros_Cons.pdf)
+
+### Implemenetation
+-	Importing the librarires
+-	Importing the dataset
+-	Splitting the dataset into the Training set and Test set
+-	Training the Simple Linear Regression model on the Training set
+-	Predicting the Test set results
+-	Visualising the Training set results
+-	Visualising the Test set results
 
 ### Encoder
 - **OneHotEncoder**
