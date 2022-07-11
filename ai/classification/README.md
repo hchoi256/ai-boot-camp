@@ -9,7 +9,7 @@
 ### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/random-forest.md)
 
 ## Performance: Classifiers
-Logistic < KNN < SVM < 
+Logistic < KNN < SVM < ker-SVM <
 
 ## Linear vs. Non-linear
 ### 선형 (해석)
