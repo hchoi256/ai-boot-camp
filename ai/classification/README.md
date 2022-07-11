@@ -9,7 +9,7 @@
 ### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/random-forest.md)
 
 ## Performance: Classifiers
-Logistic < KNN < SVM < ker-SVM <
+Logistic < SVM(선형) < KNN < kernel SVM(비선형) < ker-SVM <
 
 ## Linear vs. Non-linear
 ### 선형 (해석)
@@ -18,8 +18,10 @@ Logistic < KNN < SVM < ker-SVM <
 #### 분류기
 - Linear regression
 - Logistic regression
+- SVM (선형)
 
 ### 비선형 (예측)
 데이터를 어떻게 변형하더라도 파라미터를 선형 결합식으로 표현할 수 없는 모델
 #### 분류기
 - KNN
+- kernel SVM (비선형)
