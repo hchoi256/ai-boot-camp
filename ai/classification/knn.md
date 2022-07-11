@@ -7,10 +7,9 @@
 
 # KNN Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178264975-cbcd6ecf-396a-4aae-af13-b10957c9eae1.png)
-![image](https://user-images.githubusercontent.com/39285147/178281970-74280399-c843-4830-a854-160059742445.png)
 
 ## How did it work?
-![image](https://user-images.githubusercontent.com/39285147/178265534-fe4dedc0-7c7a-403b-a1f1-0f8a48dc82d7.png)
+![image](https://user-images.githubusercontent.com/39285147/178265534-fe4dedc0-7c7a-403b-a1f1-0f8a48dc82d7.png)![image](https://user-images.githubusercontent.com/39285147/178282037-d5a93c2d-e01f-4a64-9d47-5c6ba34ea51f.png)
 
 - STEP 1: Choose the number K of neighbors
 - STEP 2: Take the Knearest neighbors of the new data point, according to the Eclidean distance
