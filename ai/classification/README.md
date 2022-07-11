@@ -12,6 +12,8 @@
 Logistic < SVM(선형) < KNN < kernel SVM(비선형) < ker-SVM <
 
 ## Linear vs. Non-linear
+![image](https://user-images.githubusercontent.com/39285147/178288426-588c6cdd-2a2f-45f3-86db-00f4dcc71b7f.png)
+
 ### 선형 (해석)
 선형결합에서 가중치가 선형 관계인 경우
 - 분류 결과의 decision boundary가 비선형 일수도 있다.
