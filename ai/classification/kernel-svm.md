@@ -9,6 +9,7 @@
 
 # Kernel SVM Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178288744-b1ec6e6e-89fe-4ca9-8297-000a2bb442e2.png)
+![image](https://user-images.githubusercontent.com/39285147/178299122-79c84c39-0c78-498c-8c30-941c4d77ce17.png)
 
 # How to Interpret Non-linear Data
 ## ① Mapping to a Higher Dimension (*Not the best*)
