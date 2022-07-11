@@ -18,3 +18,5 @@
 ## Make prediction
 ![image](https://user-images.githubusercontent.com/39285147/178245232-13193093-4276-47d4-9256-f7fc57ac1d79.png)
 
+# Confusion Matrix
+범주화 유형 측정법
