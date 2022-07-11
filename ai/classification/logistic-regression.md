@@ -2,6 +2,8 @@
 ### Terms
 - Logistic regression intuition
 
+[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/codes/logistic_regression.ipynb)
+
 # Logistic Regression Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178243846-cc55ba03-7e5a-4d35-a749-892fdaeacc87.png)
 
