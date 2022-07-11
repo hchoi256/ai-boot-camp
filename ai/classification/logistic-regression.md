@@ -23,8 +23,3 @@
 
 # Confusion Matrix
 범주화 유형 측정법
-
-# Note
-선형모델
-- 선형결합에서 가중치가 선형 관계인 경우
-- 분류 결과의 decision boundary가 비선형 일수도 있다.
