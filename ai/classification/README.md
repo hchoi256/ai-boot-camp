@@ -27,3 +27,6 @@ Logistic < SVM(선형) < KNN = kernel SVM(비선형) < Naive Beyas <
 #### 분류기
 - KNN
 - kernel SVM (비선형)
+  - RBF
+  - Polynomial Kernel
+  - Sigmoid Kernel
