@@ -8,8 +8,8 @@
 ### [Decision Tree Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/decision-tree.md)
 ### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/random-forest.md)
 
-## Performance
-Linear < Logistic < KNN < SVM < 
+## Performance: Classifiers
+Logistic < KNN < SVM < 
 
 ## Linear vs. Non-linear
 ### 선형 (해석)
