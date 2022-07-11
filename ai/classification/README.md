@@ -8,7 +8,10 @@
 ### [Decision Tree Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/decision-tree.md)
 ### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/random-forest.md)
 
-## 선형 vs. 비선형
+## Performance
+Linear < Logistic < KNN < SVM < 
+
+## Linear vs. Non-linear
 ### 선형 (해석)
 선형결합에서 가중치가 선형 관계인 경우
 - 분류 결과의 decision boundary가 비선형 일수도 있다.
