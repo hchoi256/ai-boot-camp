@@ -12,7 +12,7 @@
 - 결과가 **범주형**일 때 사용
 - Linear model
 
-**이상치*: [0, 1] 범위 밖)
+**이상치*: [0, 1] 범위 밖
 
 ## Find probability
 ![image](https://user-images.githubusercontent.com/39285147/178244899-b471eaee-f5cf-48eb-8782-6f718cf832e1.png)
