@@ -10,7 +10,7 @@
 
 ## Performance: Classifiers
 모든 모형 다 테스트 후 최적 모델 선정하여야 하나, 일반적으로는 아래 성능을 따른다 (overfitting 등 여러 변수 제외).
-- Logistic < Naive Beyas = SVM(선형) < KNN = kernel SVM(비선형) < 
+- Logistic < Naive Beyas = SVM(선형) < Decision Tree < KNN = kernel SVM(비선형) < 
 
 ## Linear vs. Non-linear
 ![image](https://user-images.githubusercontent.com/39285147/178288426-588c6cdd-2a2f-45f3-86db-00f4dcc71b7f.png)
@@ -32,3 +32,5 @@
   - Polynomial Kernel
   - Sigmoid Kernel
 - Naive Beyas
+- Decision tree
+- Random forest
