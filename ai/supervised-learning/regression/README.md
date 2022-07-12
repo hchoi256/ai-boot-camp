@@ -32,6 +32,7 @@
 
 ## SVR
 ![image](https://user-images.githubusercontent.com/39285147/177983301-baaa9147-5d0f-4c06-ac85-dd31f8715ec8.png)
+![image](https://user-images.githubusercontent.com/39285147/178491490-f2da73f7-1ea8-40a0-bef8-d130f1e0d8b0.png)
 
 튜브 내부가 최대한 많은 데이터를 함유하도록 support vectors들을 생성한다.
 
