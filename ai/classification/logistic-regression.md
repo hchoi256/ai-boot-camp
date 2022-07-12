@@ -14,6 +14,12 @@
 
 **이상치*: [0, 1] 범위 밖
 
+## Logistic Regression Assumptions
+- Independent observations
+- No multicollinearity among the independent variables
+- Large sample size
+- etc.
+
 ## Find probability
 ![image](https://user-images.githubusercontent.com/39285147/178244899-b471eaee-f5cf-48eb-8782-6f718cf832e1.png)
 
