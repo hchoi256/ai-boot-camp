@@ -9,7 +9,7 @@
 ### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/random-forest.md)
 
 ## Performance: Classifiers
-모든 모형 다 테스트 후 최적 모델 선정하여야 하나, 일반적으로는 아래 성능을 따른다 (overfitting 등 여러 변수 제외).
+**모든 모형 다 테스트 후 최적 모델 선정하여야 하나**, 일반적으로는 아래 성능을 따른다 (overfitting 등 여러 변수 제외).
 - Logistic < Naive Beyas = SVM(선형) < Decision Tree = Random Forest < KNN = Kernel SVM(비선형)
 
 ## Linear vs. Non-linear
