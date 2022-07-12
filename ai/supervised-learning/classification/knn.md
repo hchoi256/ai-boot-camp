@@ -3,7 +3,7 @@
 - KNN
 - Eclidean distance
 
-[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/codes/k_nearest_neighbors.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/k_nearest_neighbors.ipynb)
 
 # KNN Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178264975-cbcd6ecf-396a-4aae-af13-b10957c9eae1.png)
