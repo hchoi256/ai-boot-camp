@@ -11,7 +11,8 @@
 ![image](https://user-images.githubusercontent.com/39285147/178408112-e5b39a5b-98e5-46e0-b04c-df0749e67c91.png)
 ![image](https://user-images.githubusercontent.com/39285147/178408167-355fa96a-eb74-41ae-ab78-f5acf821d634.png)
 
-Beyas와 다르게 데이터셋의 모든 데이터들이 동등하고 **독립적**이라고 가정.
+Beyas와 다르게 데이터셋의 모든 데이터들이 동등하고 **독립적**이라고 가정 (independent assumptions)
+- ML에서 요소가 독립적이지 않으면 베이즈 이론 적용 불가능한 한계를 개선했다.
 
 ## Goal
 ![image](https://user-images.githubusercontent.com/39285147/178408141-16c9bd7d-0725-4245-aff8-a78e09a7622d.png)
@@ -19,6 +20,9 @@ Beyas와 다르게 데이터셋의 모든 데이터들이 동등하고 **독립�
 ## Process
 ![image](https://user-images.githubusercontent.com/39285147/178408577-14d7c57f-81ea-40ae-b0e6-79e75baf73e1.png)
 ![image](https://user-images.githubusercontent.com/39285147/178408872-5311a2a7-6cd1-433c-ba57-4f7a49c4ad44.png)
+
+요소가 두 개일 경우 하나만 구하고 나머지는 1에서 뺀 나머지로 쉽게 계산해볼 수 있다.
+- 하지만, 요소가 세 개라면 두 번의 계산을 거쳐야 한다.
 
 <details markdown="1">
 <summary>Find P(X)(접기/펼치기)</summary> 
