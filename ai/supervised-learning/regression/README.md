@@ -1,21 +1,12 @@
-****
-### Terms
-- Simple Linear Regression
-- Multiple Linear Regression
-- Polynomial Linear Regression
-- SVR
-- Decision Tree Regression
-- Random Forest Regression
-
 # Regression
 ## 강의목차
-### [Simple Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/simple_linear_regression.ipynb)
-### [Multiple Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/multiple_linear_regression.ipynb)
-### [Polynomial Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/polynomial_regression.ipynb)
-### [SVR](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/support_vector_regression.ipynb)
-### [Decision Tree Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/decision_tree_regression.ipynb)
-### [Random Forest Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/random_forest_regression.ipynb)
-### [Regression Models: Pros and Cons](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/regression/Regression_Pros_Cons.pdf)
+### [Simple Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/regression/simple_linear_regression.ipynb)
+### [Multiple Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/regression/multiple_linear_regression.ipynb)
+### [Polynomial Linear Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/regression/polynomial_regression.ipynb)
+### [SVR](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/regression/support_vector_regression.ipynb)
+### [Decision Tree Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/regression/decision_tree_regression.ipynb)
+### [Random Forest Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/regression/random_forest_regression.ipynb)
+### [Regression Models: Pros and Cons](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/regression/Regression_Pros_Cons.pdf)
 
 ## Simple Linear Regression
 ![image](https://user-images.githubusercontent.com/39285147/177331908-96267c1b-82d3-4b76-929d-fa9ca6c6e7d1.png)
