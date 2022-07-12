@@ -8,6 +8,7 @@
 ### [Decision Tree Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/decision-tree.md)
 ### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/random-forest.md)
 ### [분류 모델 성능 평가](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/performance-of-classifiers.md)
+### [Pros and Cons of Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/Classification_Pros_Cons.pdf)
 
 ## Performance: Classifiers
 **모든 모형 다 테스트 후 최적 모델 선정하여야 하나**, ~~일반적으로는 아래 성능을 따른다 (overfitting 등 여러 변수 제외).~~
