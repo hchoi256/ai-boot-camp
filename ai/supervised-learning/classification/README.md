@@ -1,14 +1,14 @@
 # ML Classification models
 ## 강의 목차
-### [Logistic Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/logistic-regression.md)
-### [K-Nearest Neighbors (K-NN)](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/knn.md)
-### [Support Vector Machine (SVM)](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/svm.md)
-### [Kernel SVM](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/kernel-svm.md)
-### [Naive Bayes](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/naive-bayes.md)
-### [Decision Tree Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/decision-tree.md)
-### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/random-forest.md)
+### [Logistic Regression](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/logistic_regression.ipynb)
+### [K-Nearest Neighbors (K-NN)](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/k_nearest_neighbors.ipynb)
+### [Support Vector Machine (SVM)](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/support_vector_machine.ipynb)
+### [Kernel SVM](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/kernel_svm.ipynb)
+### [Naive Bayes](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/naive_bayes.ipynb)
+### [Decision Tree Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/decision_tree_classification.ipynb)
+### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/random_forest_classification.ipynb)
 ### [분류 모델 성능 평가](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/performance-of-classifiers.md)
-### [Pros and Cons of Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/classification/Classification_Pros_Cons.pdf)
+### [Pros and Cons of Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/Classification_Pros_Cons.pdf)
 
 ## Performance: Classifiers
 **모든 모형 다 테스트 후 최적 모델 선정하여야 하나**, ~~일반적으로는 아래 성능을 따른다 (overfitting 등 여러 변수 제외).~~
