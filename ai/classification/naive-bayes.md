@@ -36,3 +36,5 @@ Beyas와 다르게 데이터셋의 모든 데이터들이 동등하고 **독립�
 
 ## Conclusion
 ![image](https://user-images.githubusercontent.com/39285147/178408907-09ca4cc3-0d06-48d4-a857-cf3aafea5098.png)
+![image](https://user-images.githubusercontent.com/39285147/178411506-54e54b51-c568-4d39-816e-fb86ae243ffe.png)
+
