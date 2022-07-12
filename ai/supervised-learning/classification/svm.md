@@ -14,4 +14,8 @@
 
 ## Types of SVM
 - Soft Margin
+  - 비선형 데이터
+  - Better generality by allowing outliers
 - Hard Margin
+  - 선형 데이터
+  - 이상치에 매우 민감
