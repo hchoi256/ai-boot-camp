@@ -4,7 +4,9 @@
 
 [code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/unsupervised-learning/association-rule/codes/apriori.ipynb)
 
-# Apriori
+# Aprior
+고객이 이걸 사면 다른 어떤 상품을 살 확률이 높아지는 그 기회를 측정하는 가장 강력한 규칙을 찾는 방법.
+
 ## Support(지지도)
 ![image](https://user-images.githubusercontent.com/39285147/178700555-cea5698d-3ba6-412f-b0ce-0140de9b3046.png)
 ![image](https://user-images.githubusercontent.com/39285147/178702321-d8f60dfc-e81a-4bc7-b3bf-ae864e404b28.png)
