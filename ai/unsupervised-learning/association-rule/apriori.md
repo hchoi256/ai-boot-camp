@@ -39,6 +39,10 @@
 - Confidence (*0.8*)
 - Lift (*3*)
 
+## 해석
+![image](https://user-images.githubusercontent.com/39285147/178716879-637a43a1-7799-4043-9102-12acc4f278ff.png)
+pandas nlargest를 사용하여 Lift 순으로 정렬한 테이블이다. fromage blanc를 좋아하는 사람이 꿀을 구매할 향상도가 가장 높은 것으로 보아 blanc는 투자 가치가 높은 품목이다.
+
 ## Applications
 - Reference Systems by Amazon
 - 신용카드 사기를 당했을 때 주로 결제되는 내역 패턴
