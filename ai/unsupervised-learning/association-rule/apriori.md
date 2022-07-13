@@ -31,6 +31,14 @@
 - **STEP 3**: Take all the rules of these subsets having higher confidence than minimum confidence
 - **STEP 4**: Sort the rules by decreasing lift
 
+### How to Choose Min Support/Confidence/Lift?
+#### 기본 상식
+- Support (*3*7/데이터수*)
+
+#### 경험에 의거
+- Confidence (*0.8*)
+- Lift (*3*)
+
 ## Applications
 - Reference Systems by Amazon
 - 신용카드 사기를 당했을 때 주로 결제되는 내역 패턴
