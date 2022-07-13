@@ -1,4 +1,5 @@
 # Data Processing
+[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/data-processing/data-preprocessing.ipynb)
 
 ![image](https://user-images.githubusercontent.com/39285147/177332275-18157d62-4234-43c0-b72b-e550f6bdf1bd.png)
 - **Standarization**
