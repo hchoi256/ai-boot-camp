@@ -1,6 +1,13 @@
 ****
 ### Terms
 - Hierarchical Clustering
+  - Agglomerative
+    - Single
+    - Complete
+    - Average
+    - Ward
+    - etc.
+  - Divisive
 
 [code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/unsupervised-learning/clustering/codes/hierarchical_clustering.ipynb)
 
