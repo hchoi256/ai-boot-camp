@@ -12,10 +12,10 @@
 ![image](https://user-images.githubusercontent.com/39285147/178691023-037c228e-2253-46df-a359-17a70d51ef61.png)
 
 ### Agglomerative HC
-- STEP 1: Make each data point a single-point cluster --> that forms N clusters
-- STEP 2: Take the two closest data points and make them one cluster --> that forms N-1 clusters
-- STEP 3: Take the two closest and make them one cluster --> that forms N-2 clusters
-- STEP 4: Repeat STEP 3 untill there is only one cluster
+- **STEP 1**: Make each data point a single-point cluster --> that forms N clusters
+- **STEP 2**: Take the two closest data points and make them one cluster --> that forms N-1 clusters
+- **STEP 3**: Take the two closest and make them one cluster --> that forms N-2 clusters
+- **STEP 4**: Repeat STEP 3 untill there is only one cluster
 
 ## How to Find Optimal # Clusters
 ### Dendrogram
