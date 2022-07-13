@@ -1,4 +1,4 @@
-# Clustering
+# Association Rule Learning
 ## 강의 목차
-### [K-Means](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/clustering/kmeans.md)
-### [Hierarchical Clustering](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/clustering/hierarchical-clustering.md)
+### [Apriori](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/unsupervised-learning/association-rule/codes/apriori.ipynb)
+### [Ecalt](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/unsupervised-learning/association-rule/codes/eclat.ipynb)
