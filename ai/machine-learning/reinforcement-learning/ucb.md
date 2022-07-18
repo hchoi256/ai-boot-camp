@@ -11,6 +11,8 @@ Exploration/Exploitation에 시간과 돈을 소모해야하는 AB Test보더 �
 - 예측 횟수 ↑, 신뢰 구간 ↓, U(a) ↓, exploration ↓ --> 더 안정적인 결과를 보여주는 action을 선택 --> (exploitation) 효과적으로 action을 선택하게 끔 하는 효과가 생깁니다.
 
 ## Visualization
+[*5000 rounds*]
+
 ![image](https://user-images.githubusercontent.com/39285147/179471716-f6a3459f-bce2-4234-871f-f98679fcd013.png)
 
 UCB는 예측 라운드가 늘어날 수록 더 정확한 분류를 해낸다.
@@ -19,5 +21,4 @@ UCB는 예측 라운드가 늘어날 수록 더 정확한 분류를 해낸다.
 500 라운드처럼 적은 횟수의 라운드에서는 정확한 식별이 어렵다. 하지만, 톰슨 샘플링은 가능하다.
 
 # Reference
-[*5000 rounds*]
 [UCB](https://jyoondev.tistory.com/137)
