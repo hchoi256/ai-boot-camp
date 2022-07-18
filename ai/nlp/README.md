@@ -34,6 +34,12 @@ Natural Language Processing (or NLP) is applying Machine Learning models to text
 - **review.lower()**: 소문자로 통일하기
 - **review.split()**: 단어별로 분류
 
+> NLTK
+>> Tokenization
+>> Part of Speech Tagging
+>> Named Entity Recognition
+>> Sentiment analysis(감성 분석)
+
 > 희소행렬
 >> 행렬 안의 많은 항들이 0으로 되어있는 행렬
 
