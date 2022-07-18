@@ -22,5 +22,9 @@ Exploration/Exploitation에 시간과 돈을 소모해야하는 AB Test보더 �
 ![image](https://user-images.githubusercontent.com/39285147/179471716-f6a3459f-bce2-4234-871f-f98679fcd013.png)
 
 UCB는 예측 라운드가 늘어날 수록 더 정확한 분류를 해낸다.
+
+## 한계점
+500 라운드처럼 적은 횟수의 라운드에서는 정확한 식별이 어렵다. 하지만, 톰슨 샘플링은 가능하다.
+
 # Reference
 [UCB](https://jyoondev.tistory.com/137)
