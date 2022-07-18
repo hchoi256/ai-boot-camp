@@ -12,6 +12,18 @@ Natural Language Processing (or NLP) is applying Machine Learning models to text
 
 ## Implementation - 감성 분석
 
+### Process
+1. Importing libraries
+2. Importing datasets
+3. Cleaning text
+4. Creating the Bag of Words model
+5. Splitting the data into Training and Test sets
+6. Training thee Naive Bayes model on the Training set
+7. Predicting the Test set results
+8. Making the confusion matrix
+9. Predicting if a single review is positive or negative
+
+### Note
 ![image](https://user-images.githubusercontent.com/39285147/179498392-39d35dca-6727-4289-bf88-4122801fb1d5.png)
 
 - **courpus**: 최종 후기
