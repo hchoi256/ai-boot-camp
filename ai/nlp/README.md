@@ -11,7 +11,7 @@ Natural Language Processing (or NLP) is applying Machine Learning models to text
 > *does not talk about Seq2Sqe or Chatbots*
 
 ## Implementation
-![image](https://user-images.githubusercontent.com/39285147/179495322-a40ef4e9-7f79-4331-9cf9-3060a4fbc4b0.png)
+![image](https://user-images.githubusercontent.com/39285147/179498392-39d35dca-6727-4289-bf88-4122801fb1d5.png)
 
 - **courpus**: 최종 후기
 - **nltk**: 제외어 (i.e., a, the, etc.)
