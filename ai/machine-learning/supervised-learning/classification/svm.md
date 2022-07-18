@@ -2,7 +2,7 @@
 ### Terms
 - SVM
 
-[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/codes/support_vector_machine.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/machine-learning/supervised-learning/classification/codes/support_vector_machine.ipynb)
 
 # SVM Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178284534-ac5200fe-60eb-4dd1-8ad1-b54cb8bfed2c.png)
