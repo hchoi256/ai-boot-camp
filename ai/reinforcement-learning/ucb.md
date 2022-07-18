@@ -7,7 +7,7 @@
 # Upper Confidence Bound (UCB)
 ![image](https://user-images.githubusercontent.com/39285147/179367150-4d5bd124-8058-4194-b3b4-a729064780c3.png)
 
-Exploration/Exploitation에 시간과 돈을 소모해야하는 AB Test보더 다 정교한 방법으로, 그 동안의 관측 결과에서부터 time t에서 arm i의 expected reward의 confidence (확률이 높은) upper bound를 선택하는 방식으로 **더 빠른** '탐색'을 수행한다.
+Exploration/Exploitation에 시간과 돈을 소모해야하는 AB Test보더 다 정교한 '결정론적' 방법으로, 그 동안의 관측 결과에서부터 time t에서 arm i의 expected reward의 confidence (확률이 높은) upper bound를 선택하는 방식으로 **더 빠른** '탐색'을 수행한다.
 - 예측 횟수 ↑, 신뢰 구간 ↓, U(a) ↓, exploration ↓ --> 더 안정적인 결과를 보여주는 action을 선택 --> (exploitation) 효과적으로 action을 선택하게 끔 하는 효과가 생깁니다.
 
 ## Visualization
