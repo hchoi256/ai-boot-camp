@@ -1,10 +1,8 @@
 # Artificial Neural Network
-![image](https://user-images.githubusercontent.com/39285147/179502990-456391e2-bc2b-4069-b2f4-8658a2f4e9c5.png)
-
-[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
-
 ## Training the ANN w/ SGD
 ![image](https://user-images.githubusercontent.com/39285147/179520236-88b1d5ba-cba2-4a3b-87db-a4cd1027aac2.png)
+
+[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
 
 # 강의 목차
 - [The Neuron](#The-Neuron)
