@@ -2,7 +2,7 @@
 ### Terms
 - Naive Bayes
 
-[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/naive_bayes.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/codes/naive_bayes.ipynb)
 
 # Bayes
 ![image](https://user-images.githubusercontent.com/39285147/178406887-84424b6b-2469-414c-9433-1c3f5565aa42.png)
