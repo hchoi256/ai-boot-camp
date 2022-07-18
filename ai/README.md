@@ -6,9 +6,13 @@
 ![image](https://user-images.githubusercontent.com/39285147/178443335-dfa6f715-69cd-4fef-a562-f72c3ad38f2b.png)
 
 ## [Deep Learning](https://github.com/EricChoii/ai-boot-camp/tree/main/ai/deep-learning)
-TBD
+- **Part 1**: ANN
+- **Part 2**: CNN
 
 ## [NLP](https://github.com/EricChoii/ai-boot-camp/tree/main/ai/nlp)
+- **Part 1**: Types of NLP
+- **Part 2**: Classical vs. Deep Learning Models
+- **Part 3**: Bag-Of-Words
 
 # Note
 ### How to Install Packages on Web
