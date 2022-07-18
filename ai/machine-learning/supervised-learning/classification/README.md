@@ -7,7 +7,7 @@
 ### [Naive Bayes](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/naive-bayes.md)
 ### [Decision Tree Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/decision-tree.md)
 ### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/random-forest.md)
-### [분류 모델 성능 평가](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/smachine-learning/upervised-learning/classification/performance-of-classifiers.md)
+### [분류 모델 성능 평가](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/performance-of-classifiers.md)
 ### [Pros and Cons of Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/Classification_Pros_Cons.pdf)
 
 ## Performance: Classifiers
