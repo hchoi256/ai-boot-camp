@@ -6,7 +6,7 @@
 # 강의 목차
 - [The Neuron](#The-Neuron)
 - [The Activation Function](#The-Activation-Function)
-- [How do Neural Networks work? (example)](#How-do-Neural-Networks-work?)
+- [How do Neural Networks work? (example)](#How-do-Neural-Networks-work)
 - [Gradient Descent](#Gradient-Descent)
 - [Stochastic Gradient Descent](#Stochastic-Gradient-Descent)
 - [Backpropagation](#Backpropagation)
