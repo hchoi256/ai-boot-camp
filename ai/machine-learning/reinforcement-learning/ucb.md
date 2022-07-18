@@ -2,7 +2,7 @@
 ### Terms
 - UCB
 
-[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/reinforcement-learning/codes/upper_confidence_bound.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/reinforcement-learning/codes/upper_confidence_bound.ipynb)
 
 # Upper Confidence Bound (UCB)
 ![image](https://user-images.githubusercontent.com/39285147/179367150-4d5bd124-8058-4194-b3b4-a729064780c3.png)
