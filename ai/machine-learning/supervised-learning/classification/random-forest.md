@@ -3,7 +3,7 @@
 - Random Forest
 - Ensemble learning
 
-[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/random_forest_classification.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/codes/random_forest_classification.ipynb)
 
 # Random Forest Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178423838-f07bda91-6a04-40cb-b7e3-3b295cbdc8c8.png)
