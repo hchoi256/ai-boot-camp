@@ -2,7 +2,7 @@
 ### Terms
 - Thomson Sampling
 
-[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/reinforcement-learning/codes/thompson_sampling.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/reinforcement-learning/codes/thompson_sampling.ipynb)
 
 # Thomson Sampling
 ![image](https://user-images.githubusercontent.com/39285147/179477484-65b2f951-c6c6-4abc-b620-e9bf21209876.png)
