@@ -14,3 +14,6 @@
 
 > AB Test
 >> A/B 테스트는 기존 서비스(A)와 새로 적용하고 싶은 서비스(B)를 통계적인 방법으로 비교하여 새로운 서비스가 기존 서비스에 비해 정말 효과가 있는지 확인하는 방법이다.
+
+## UCB vs Thompson Sampling
+![image](https://user-images.githubusercontent.com/39285147/179479321-5cddea1f-7d45-4814-a36e-f670454ee7f1.png)
