@@ -2,9 +2,9 @@
 
 ## 강의 목차
 
-### [Upper Confidence Bound (UCB)](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/reinforcement-learning/ucb.md)
+### [Upper Confidence Bound (UCB)](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/reinforcement-learning/ucb.md)
 
-### [Thompson Sampling](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/reinforcement-learning/thomson-sampling.md)
+### [Thompson Sampling](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/reinforcement-learning/thomson-sampling.md)
 
 # Reference
 ## Multi-Armed Bandit Problem
