@@ -3,6 +3,9 @@
 
 [code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
 
+## Training the ANN w/ SGD
+![image](https://user-images.githubusercontent.com/39285147/179520236-88b1d5ba-cba2-4a3b-87db-a4cd1027aac2.png)
+
 # 강의 목차
 - [The Neuron](#The-Neuron)
 - [The Activation Function](#The-Activation-Function)
@@ -64,7 +67,6 @@ SGD의 장점
 - Local optima에 빠지는 현상을 상대적으로 피해준다 (더 큰 변동성을 감당할 수 있기 때문이다).
 - 한번에 모든 데이터에 접근하지 않아서 수행이 빠르다
 
-
 > Mini-batch Gradient Descent
 >> BGD와 SGD의 확장버전으로, 설정된 횟수 만큼의 데이터 행을 실행한다 (i.e., 5, 10, etc.)
 
@@ -77,5 +79,3 @@ SGD의 장점
 
 > Forwardpropagation
 >> ![image](https://user-images.githubusercontent.com/39285147/179519501-2149e1ea-4b48-4799-8f08-35b6437b2a2b.png)
-
-
