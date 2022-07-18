@@ -9,7 +9,7 @@
     - etc.
   - Divisive
 
-[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/unsupervised-learning/clustering/codes/hierarchical_clustering.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/clustering/codes/hierarchical_clustering.ipynb)
 
 # Hierarchical Clustering
 ![image](https://user-images.githubusercontent.com/39285147/178683601-7888f796-67e2-4b36-87dc-94152059b69e.png)
