@@ -1,4 +1,8 @@
 # Artificial Neural Network
+ANN은 딥 러닝의 가장 핵심적인 기술로써, 신경 세포인 neuron을 추상화한 artificial neuron으로 구성된 네트워크이다
+
+ANN은 입력, 은닉, 출력 계층으로 구성되어 있으며 은닉 계층을 한 개 이상 포함할 수 있고, 각 계층은 여러 노드로 구성된다.
+
 ## Training the ANN w/ SGD
 ![image](https://user-images.githubusercontent.com/39285147/179520236-88b1d5ba-cba2-4a3b-87db-a4cd1027aac2.png)
 
