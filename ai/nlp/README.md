@@ -48,6 +48,11 @@ Natural Language Processing (or NLP) is applying Machine Learning models to text
 - **CounterVectorizer()**: 주어진 후기로부터 모든 단어 집합을 가져온다.
   - *max_features* = 1500: 가장 빈번하게 사용되는 1500개의 단어를 가져온다 (rick처럼 한 번만 나오는 연관성 없는 단어는 제외)
   
+#### Types of Tokenization
+- **Word tokenization**: 대량의 텍스트를 단어로 분할하는 과정에서 각 단어를 인식하고 특정 감정에 대한 분류 및 계산과 같은 추가 분석을 거쳐야 하는 NLP 작업
+- **Sentence tokenization**: 문장을 기준으로 토큰화
+- **Regex tokenization**: Regex를 기준으로 토큰화
+- **Blank line tokenization**: 빈 줄을 기준으로 토큰화
   
 ## How to Improve Performance
 1. 여러 다른 모델 사용
