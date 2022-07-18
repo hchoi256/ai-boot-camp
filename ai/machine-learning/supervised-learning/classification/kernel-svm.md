@@ -5,7 +5,7 @@
 - Kernel Trick
 - Non-linear SVR
 
-[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/supervised-learning/classification/codes/kernel_svm.ipynb)
+[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/codes/kernel_svm.ipynb)
 
 # Kernel SVM Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178288744-b1ec6e6e-89fe-4ca9-8297-000a2bb442e2.png)
