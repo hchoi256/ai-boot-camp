@@ -13,7 +13,3 @@
 - **Part 1**: Types of NLP
 - **Part 2**: Classical vs. Deep Learning Models
 - **Part 3**: Bag-Of-Words
-
-# Note
-### How to Install Packages on Web
-!pip install
