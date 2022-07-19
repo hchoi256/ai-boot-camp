@@ -14,9 +14,9 @@
   - Prediction with regression analysis (simple, multiple)
   - K-means clustering analysis
 
-### **Workshop**: [no-code data analysis](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/basic-occup-edu/no-code-workshop-anlaysis.md)
+### **Workshop**: [no-code data analysis](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/basic-occup-edu/no-code-workshop-anlaysis.md)
 
 ## Problem solving through data-driven design thinking
-### **Workshop**: [Data-driven design thinking (DDDT)](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/basic-occup-edu/design-driven-thinking.md)
+### **Workshop**: [Data-driven design thinking (DDDT)](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/basic-occup-edu/design-driven-thinking.md)
   - Real-world problem solving
   - Hypothesis test by team
