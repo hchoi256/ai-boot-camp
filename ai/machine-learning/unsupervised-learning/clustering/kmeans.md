@@ -3,7 +3,7 @@
 - KMeans
 - WCSS
 
-[code](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/unsupervised-learning/clustering/codes/k_means_clustering.ipynb)
+[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/clustering/codes/k_means_clustering.ipynb)
 
 # KMeans
 ![image](https://user-images.githubusercontent.com/39285147/178481551-a473b830-a736-460a-be3d-99b3e63d48d6.png)
