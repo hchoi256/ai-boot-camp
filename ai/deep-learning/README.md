@@ -6,8 +6,8 @@
 - Convolutional Neural Networks for a Computer Vision task
 
 # 강의 목차
-### [ANN](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
-### [CNN](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/deep-learning/cnn.md)
+### [ANN](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
+### [CNN](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/cnn.md)
 
 ### Applications
 - Artificial Neural Networks for Regression and Classification
