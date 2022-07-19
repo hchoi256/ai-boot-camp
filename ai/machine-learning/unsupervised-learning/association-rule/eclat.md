@@ -2,7 +2,7 @@
 ### Terms
 - Eclat
 
-[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/association-rule/codes/eclat.ipynb)
+[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/association-rule/codes/eclat.ipynb)
 
 # Eclat
 이걸 산 사람은 저걸 산다는 추측 방법. Eclat 모델은 모든 조합을 검토하고 어떤 것에 집중해야 하는지 알려주는 역할을 한다.
