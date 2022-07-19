@@ -6,7 +6,7 @@ ANN은 입력, 은닉, 출력 계층으로 구성되어 있으며 은닉 계층�
 ## Training the ANN w/ SGD
 ![image](https://user-images.githubusercontent.com/39285147/179520236-88b1d5ba-cba2-4a3b-87db-a4cd1027aac2.png)
 
-[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
+[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
 
 # 강의 목차
 - [The Neuron](#The-Neuron)
@@ -47,7 +47,7 @@ ANN은 입력, 은닉, 출력 계층으로 구성되어 있으며 은닉 계층�
 > 역전파
 >> 예측값과 실제값의 차이인 오차를 계산하고, 이것을 다시 역으로 전파하여 가중치를 조정하는 과정을 의미한다. 이때, 역전파 과정에서는 최적화 함수를 이용합니다.
 
-## [Gradient Descent(= Batch Gradient Descent](https://github.com/EricChoii/lg-ai-auto-driving-radar-sensor/blob/main/supervised-learning/gradient-discent.md)
+## [Gradient Descent(= Batch Gradient Descent](https://github.com/hchoi256/lg-ai-auto-driving-radar-sensor/blob/main/supervised-learning/gradient-discent.md)
 ![image](https://user-images.githubusercontent.com/39285147/179517720-510df59a-32ea-422b-90b1-d95e242e6d26.png)
 
 *모든 데이터*를 가지고 신경망에서 학습을 수행하여 가중치 업데이트를 수행한다.
@@ -57,7 +57,7 @@ ANN은 입력, 은닉, 출력 계층으로 구성되어 있으며 은닉 계층�
 
 **Stochastic Gradient Descent**는 볼록한 형태의 비용함수를 필요로 하지 않으므로, 상기 함수꼴 모양에서도 수행이 가능하다.
 
-## [Stochastic Gradient Descent](https://github.com/EricChoii/lg-ai-auto-driving-radar-sensor/blob/main/supervised-learning/gradient-discent.md)
+## [Stochastic Gradient Descent](https://github.com/hchoi256/lg-ai-auto-driving-radar-sensor/blob/main/supervised-learning/gradient-discent.md)
 ![image](https://user-images.githubusercontent.com/39285147/179517808-468c6626-3096-4ff2-a97b-842abb56a68c.png)
 
 *랜덤한 하나의 데이터*를 가지고 신경망에서 학습을 수행하여 가중치 업데이트를 수행하고, 또 다른 하나의 확률적 데이터를 가지고 앞서 언급된 작업을 반복한다.
