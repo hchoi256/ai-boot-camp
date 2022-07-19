@@ -1,14 +1,14 @@
 # ML Classification models
 ## 강의 목차
-### [Logistic Regression](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/supervised-learning/classification/logistic-regression.md)
-### [K-Nearest Neighbors (K-NN)](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/knn.md)
-### [Support Vector Machine (SVM)](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/svm.md)
-### [Kernel SVM](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/kernel-svm.md)
-### [Naive Bayes](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/naive-bayes.md)
-### [Decision Tree Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/decision-tree.md)
-### [Random Forest Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/random-forest.md)
-### [분류 모델 성능 평가](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/performance-of-classifiers.md)
-### [Pros and Cons of Classification](https://github.com/EricChoii/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/Classification_Pros_Cons.pdf)
+### [Logistic Regression](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/supervised-learning/classification/logistic-regression.md)
+### [K-Nearest Neighbors (K-NN)](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/knn.md)
+### [Support Vector Machine (SVM)](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/svm.md)
+### [Kernel SVM](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/kernel-svm.md)
+### [Naive Bayes](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/naive-bayes.md)
+### [Decision Tree Classification](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/decision-tree.md)
+### [Random Forest Classification](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/random-forest.md)
+### [분류 모델 성능 평가](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/performance-of-classifiers.md)
+### [Pros and Cons of Classification](https://github.com/hchoi256/ai-boot-camp-ablearn/blob/main/ai/machine-learning/supervised-learning/classification/Classification_Pros_Cons.pdf)
 
 ## Performance: Classifiers
 **모든 모형 다 테스트 후 최적 모델 선정하여야 하나**, ~~일반적으로는 아래 성능을 따른다 (overfitting 등 여러 변수 제외).~~
