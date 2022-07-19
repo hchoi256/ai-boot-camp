@@ -2,7 +2,7 @@
 ### Terms
 - Apriori
 
-[code](https://github.com/EricChoii/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/association-rule/codes/apriori.ipynb)
+[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/association-rule/codes/apriori.ipynb)
 
 # Aprior
 고객이 이걸 사면 다른 어떤 상품을 살 확률이 높아지는 그 기회를 측정하는 가장 강력한 규칙을 찾는 방법.
