@@ -1,6 +1,6 @@
 # PCA
 
-[code]()
+[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/pca/principal_component_analysis.ipynb)
 
 ## Goal
 값을 예측하는 선형회귀와 다르게 PCA는 X와 Y값 사이의 관계를 학습하는 것을 시도하고 주축 목록을 찾아낸다.
