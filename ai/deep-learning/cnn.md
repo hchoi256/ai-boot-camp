@@ -106,6 +106,8 @@ Pooling을 통하여 특징을 보존할 수 있고, 더 나아가 그들의 공
 
 # Reference
 > Softmax
+>> ![image](https://user-images.githubusercontent.com/39285147/179908795-76677ab7-84ca-44d9-84a4-fc09f8290fe2.png)
 >>
+>> 출력값은 서로 연관되지 않아야 하는데 왜 두 합이 1로 수렴될까? 그 이유는 softmax 함수가 모든 값들의 합이 1이 되도록 정규화를 수행하기 때문이다.
 
 [Cross-Entropy](https://github.com/hchoi256/ai-terms/blob/main/entropy.md)
