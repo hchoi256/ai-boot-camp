@@ -9,8 +9,7 @@
 ### [Step 3 - Flattening](#Flattening)
 ### [Step 4 - Full Connection](#Full-Connection)
 
-[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/convolutional_neural_network.ipynb)
-- [contact me if you need dataset](https://hchoi256.github.io/)
+[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/convolutional_neural_network.ipynb) - [contact me if you need dataset](https://hchoi256.github.io/)
 
 > ANN vs. CNN
 >> ANN은 특징이 정리된 입력값들을 가지고 학습을 해야했지만, CNN은 인간처럼 스스로 특징을 찾아서 입력값을 도출해낸다.
