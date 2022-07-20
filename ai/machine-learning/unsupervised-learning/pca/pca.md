@@ -1,8 +1,6 @@
 # PCA
 ![image](https://user-images.githubusercontent.com/39285147/179999103-280543fd-a85b-4c43-ba31-36416aa6e783.png)
 
-PCA를 사용하면 다중공선성 문제, 차원의 저주 문제를 해결할 수 있고, 차원을 축소해주기때문에 사람이 쉽게 관찰하고 이해할 수 있는 2차원으로 데이터들을 보여줄 수 있다.
-
 [code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/pca/principal_component_analysis.ipynb)
 
 ## Goal
@@ -19,8 +17,12 @@ Reduce the dimensions of a d-dimensional dataset by projecting it onto a (k)-dim
 - Construct the projection matrix W from the selected k eigenvectors
 - Transform the original dataset X via W to obtain a k-dimensional feature subspace Y
 
-## 단점
-아웃라이어에 굉장히 영향을 많이 받는다.
+## 장단점
+장점
+- PCA를 사용하면 다중공선성 문제, 차원의 저주 문제를 해결할 수 있고, 차원을 축소해주기때문에 사람이 쉽게 관찰하고 이해할 수 있는 2차원으로 데이터들을 보여줄 수 있다.
+
+단점
+- 아웃라이어에 굉장히 영향을 많이 받는다.
 
 ## Application
 - Noise filtering
