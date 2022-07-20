@@ -1,4 +1,5 @@
 # PCA
+![image](https://user-images.githubusercontent.com/39285147/179999103-280543fd-a85b-4c43-ba31-36416aa6e783.png)
 
 [code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/pca/principal_component_analysis.ipynb)
 
