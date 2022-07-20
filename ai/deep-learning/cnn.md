@@ -2,17 +2,16 @@
 ![image](https://user-images.githubusercontent.com/39285147/179902542-86d89abf-4428-465f-8560-a1a083ab5d7c.png)
 
 # 강의 목차
-### [What are CNN?](#What-are-CNN?)
+### [What are CNN?](#CNN)
 ### [Step 1 - Convolution Operation](#Convolution-Operation)
 ### [Step 1(b) - ReLU Layer](#ReLU-Layer)
 ### [Step 2 - Pooling](#Pooling)
 ### [Step 3 - Flattening](#Flattening)
 ### [Step 4 - Full Connection](#Full-Connection)
-### [Reference](#Reference)
 
 [code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/convolutional_neural_network.ipynb)
 
-## What are CNN?
+## CNN
 ![image](https://user-images.githubusercontent.com/39285147/179897796-f3a44156-97da-4728-9824-869f7f31ba94.png)
 
 이미지에서 feature를 뽑기위해 사용하는 합성곱 연산 과정을 수반한다.
@@ -95,7 +94,7 @@ Pooling을 통하여 특징을 보존할 수 있고, 더 나아가 그들의 공
 
 인공 신경망에 1차원 배열로써 입력하기 위해서 Flattening한다.
 
-## Full Connection(전체 연결)
+## Full Connection
 ![image](https://user-images.githubusercontent.com/39285147/179907316-73091b20-abf1-4c9f-a38b-099449234249.png)
 
 컨볼루션 신경망(CNN)에 인공 신경망(ANN)을 추가한다.
