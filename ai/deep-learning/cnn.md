@@ -21,6 +21,8 @@
 
 특징 탐지기를 사용해 이미지에서 특징을 찾고, 그것들을 특징 맵에 넣고, 픽셀 사이의 *공간적 관계*를 보전한다.
 
+신경망 학습에서 특징 스케일링은 필수적이다.
+
 > Convolution -> Max Pooling -> Flattening -> Full Connection
 
 ## Convolution Operation
