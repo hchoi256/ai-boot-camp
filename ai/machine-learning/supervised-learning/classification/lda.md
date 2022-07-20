@@ -14,6 +14,8 @@ PCA처럼 주로 차원 축소 기술로 사용된다. 하지만, 주축을 찾�
 [code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/supervised-learning/classification/codes/linear_discriminant_analysis.ipynb)
 
 ## Goal
+![image](https://user-images.githubusercontent.com/39285147/180008365-35d04b2c-e0a8-4091-9d07-706023108b99.png)
+
 - 클래스 판별 정보를 유지하는 와중에 미래 공간을 작은 부분 공간에 투영한다.
 
 ## Process
