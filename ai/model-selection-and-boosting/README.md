@@ -28,3 +28,11 @@ ML 모델을 최상의 방법으로 평가하기 위한 **k-fold 교차 검증**
 ![image](https://user-images.githubusercontent.com/39285147/180016227-f64de04a-f582-49f9-a675-698dd5713359.png)
 
 XGBoost는 회귀와 분류 둘다 적용될 수 있고 [*캐글대회*](https://m.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS7895414616)에서 압도적 승리를 거머줬을 정도로 타모델에 비해 지극히 강력한 성능을 자랑한다.
+
+### Process
+- Importing the libraries
+- Importing the dataset
+- Splitting the dataset into the Training and Test set
+- Training XGBoost on the Training set
+- Making the confusion matrix
+- Applying k-fold Cross-Validation
