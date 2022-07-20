@@ -6,7 +6,7 @@ ANN은 입력, 은닉, 출력 계층으로 구성되어 있으며 은닉 계층�
 ## Training the ANN w/ SGD
 ![image](https://user-images.githubusercontent.com/39285147/179520236-88b1d5ba-cba2-4a3b-87db-a4cd1027aac2.png)
 
-[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/ann.md)
+[code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/artificial_neural_network.ipynb)
 
 # 강의 목차
 - [The Neuron](#The-Neuron)
