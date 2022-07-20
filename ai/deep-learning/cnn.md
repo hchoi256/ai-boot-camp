@@ -70,9 +70,39 @@
 </details>
 
 ## ReLU Layer
+![image](https://user-images.githubusercontent.com/39285147/179902905-9e100976-2ff1-4aa7-9f84-817d73fa8a43.png)
+
+> 정류기 함수 (i.e., ReLU)
+>> 이미지에 선형성을 깨뜨리고 비선형성을 도입하고 싶어서 사용된다.
+
 ## Pooling
+![image](https://user-images.githubusercontent.com/39285147/179903718-0b4fd665-8a1b-4a61-8a86-0b404a44bfd8.png)
+
+Pooling을 통하여 특징을 보존할 수 있고, 더 나아가 그들의 공간적, 조직상 또는 다른 종류의 왜곡까지 고려 가능하다.
+
+가령, 각기 다른 방향을 바라보고 있는 같은 치타의 사진으로부터 특징을 찾아내기 위해 Pooling이 사용된다.
+
+#### Max Pooling
+![image](https://user-images.githubusercontent.com/39285147/179903816-5e9995b4-e328-4f37-97bb-c745dd9bbd7b.png)
+![image](https://user-images.githubusercontent.com/39285147/179904632-0bb7d474-dab2-4240-b323-2c3164e5bf58.png)
+
+### 장점
+- 불필요한 데이터가 차지하는 75%만큼 사이즈를 절감하여 처리속도가 증가한다.
+- CNN의 최종 계층에 들어갈 피라미터 개수를 줄여서 **과적합**을 방지한다.
+
 ## Flattening
-## Full Connection
+![image](https://user-images.githubusercontent.com/39285147/179905388-d0b0cc96-04f0-4ed8-a5c2-ba33599c546e.png)
+
+인공 신경망에 1차원 배열로써 입력하기 위해서 Flattening한다.
+
+## Full Connection(전체 연결)
+![image](https://user-images.githubusercontent.com/39285147/179907316-73091b20-abf1-4c9f-a38b-099449234249.png)
+
+컨볼루션 신경망(CNN)에 인공 신경망(ANN)을 추가한다.
+
+### Backpropagation
+- 비용함수를 최소화하도록 ANN의 가중치를 업데이트한다.
+- 특징 탐지기(커널)을 업데이트한다 (특징 자체를 잘못 찾았을 수도)
 
 # Reference
 > Softmax
