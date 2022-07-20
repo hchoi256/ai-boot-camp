@@ -3,6 +3,11 @@
 
 [code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/machine-learning/unsupervised-learning/pca/principal_component_analysis.ipynb)
 
+## Two Types of PCA
+- **변수 선택(Feature Selection)** : 있는 변수 중 결과값을 잘 표현할 수 있는 변수를 (있는 변수들 중에서) 단순히 고르는 것
+
+- **변수 추출(Feature Extraction)** : 변수들을 조합해 새로운 변수를 만들어 결과값을 잘 표현하는 방법
+
 ## Goal
 값을 예측하는 선형회귀와 다르게 PCA는 X와 Y값 사이의 관계를 학습하는 것을 시도하고 주축 목록을 찾아낸다.
 
