@@ -11,6 +11,9 @@
 
 [code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/convolutional_neural_network.ipynb)
 
+> ANN vs. CNN
+>> ANN은 특징이 정리된 입력값들을 가지고 학습을 해야했지만, CNN은 인간처럼 스스로 특징을 찾아서 입력값을 도출해낸다.
+
 ## CNN
 ![image](https://user-images.githubusercontent.com/39285147/179897796-f3a44156-97da-4728-9824-869f7f31ba94.png)
 
