@@ -76,8 +76,11 @@
 ## ReLU Layer
 ![image](https://user-images.githubusercontent.com/39285147/179902905-9e100976-2ff1-4aa7-9f84-817d73fa8a43.png)
 
-> 정류기 함수 (i.e., ReLU)
->> 이미지에 선형성을 깨뜨리고 비선형성을 도입하고 싶어서 사용된다.
+정류기 함수(i.e., ReLU)로 이미지에 선형성을 깨뜨리고 비선형성을 도입하고 싶어서 사용한다.
+
+![image](https://user-images.githubusercontent.com/39285147/180514256-9cca684d-5f1e-44a0-a902-a9274b169942.png)
+
+ReLU 함수를 통하여 값이 증가하여도 기울기가 줄어드는 (= 학습 속도가 줄어드는) 단점이 개선되어, 주로 은닉층에서 활용된다.
 
 ## Pooling
 ![image](https://user-images.githubusercontent.com/39285147/179903718-0b4fd665-8a1b-4a61-8a86-0b404a44bfd8.png)
