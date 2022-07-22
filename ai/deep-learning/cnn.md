@@ -8,6 +8,7 @@
 ### [Step 2 - Pooling](#Pooling)
 ### [Step 3 - Flattening](#Flattening)
 ### [Step 4 - Full Connection](#Full-Connection)
+### [Step 5 - CNN Performance](#CNN-Performance)
 
 [code](https://github.com/hchoi256/ai-boot-camp/blob/main/ai/deep-learning/convolutional_neural_network.ipynb) - [contact me if you need dataset](https://hchoi256.github.io/)
 
@@ -110,6 +111,11 @@ Pooling을 통하여 특징을 보존할 수 있고, 더 나아가 그들의 공
 ### Backpropagation
 - 비용함수를 최소화하도록 ANN의 가중치를 업데이트한다.
 - 특징 탐지기(커널)을 업데이트한다 (특징 자체를 잘못 찾았을 수도)
+
+## CNN Performance
+1. **특성 검출 개수를 증가시킨다** (i.e., 커널 32개 보다 64가 CNN 성능 개선에 도움이 되었다).
+2. **Dropout**: 신경망 내 뉴런 탈락 (피라미터 수 ↓, 일반화 ↑, 모델 성능 ↑)
+- 과적합 개선 및 뉴런 간의 다중공신성 문제 해결
 
 # Reference
 > Softmax
