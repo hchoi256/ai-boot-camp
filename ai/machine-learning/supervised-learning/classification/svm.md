@@ -6,8 +6,10 @@
 
 # SVM Intuition
 ![image](https://user-images.githubusercontent.com/39285147/178284534-ac5200fe-60eb-4dd1-8ad1-b54cb8bfed2c.png)
+![image](https://user-images.githubusercontent.com/39285147/182007872-27901268-cdf6-4108-a64d-208967ca5427.png)
 
 마진의 크기를 최대화(= 이상적인 분류 모형)하는 서포트 벡터와 분류선을 도출해낸다.
+- 상기 사진처럼 마진을 최대화하여 아웃라이어에 대한 분류를 올바르게 수행한다.
 
 ## Why SVM Special?
 - **선형/비선형** 데이터에 대한 처리가 가능하다
