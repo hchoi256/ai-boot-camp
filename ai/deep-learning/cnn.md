@@ -24,6 +24,8 @@
 
 신경망 학습에서 특징 스케일링은 필수적이다.
 
+2차원 데이터의 입력과 훈련에 용이하고 적은 매개변수만이 필요하다는 장점을 가지고 있다.
+
 > Convolution -> Max Pooling -> Flattening -> Full Connection
 
 ## Convolution Operation
