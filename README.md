@@ -9,7 +9,6 @@ I was luckily selected as a participant in this program, and I'd like to record 
 - **Basic Quality Education (about a week)**
   - Microsoft Office Specialist (MOS)
 
-
 - **Basic Occupational Education (about a week)**
   - Data literacy
     - No-code
