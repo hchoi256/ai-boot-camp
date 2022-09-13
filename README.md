@@ -5,7 +5,6 @@ This program is designed for people who want to grow as an ML engineers, offerin
 
 I was luckily selected as a participant in this program, and I'd like to record my growth throughout this program.
 
-
 ## Overview
 - **Basic Quality Education (about a week)**
   - Microsoft Office Specialist (MOS)
