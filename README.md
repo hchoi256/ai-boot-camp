@@ -27,6 +27,7 @@ I was luckily selected as a participant in this program, and I'd like to record 
     - Workshop: Data-driven design thinking (DDDT)
       - Real-world problem solving
       - Hypothesis test by team    
+      
 
 - **AI Intership (several months)**
   - Machine Learning with Python, R
