@@ -28,7 +28,6 @@ I was luckily selected as a participant in this program, and I'd like to record 
       - Real-world problem solving
       - Hypothesis test by team    
       
-
 - **AI Intership (several months)**
   - Machine Learning with Python, R
     - Core ML models in Python, R
